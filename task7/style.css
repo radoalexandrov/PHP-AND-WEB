@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+h1 {
+	text-align: center;
+}
+
+div {
+	width:70%; 
+	border: 1px solid black;
+	background-color: #c0c0c0;
+	font-weight: bold;
+	margin: auto;
+	padding: 4px;
+}

@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+h1{
+	margin-left:3em;
+	text-decoration: underline;
+	font-weight: bold;
+}
+ body{
+ background-color: #c0c0c0}
